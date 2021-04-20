@@ -1,5 +1,6 @@
 const { add } = require('@stui/core')
 
+// line is a lib
 function line(...args) {
   return add(args)
 }
