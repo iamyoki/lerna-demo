@@ -6,6 +6,7 @@ function line(...args) {
 }
 
 // changed
+// changed +1
 
 console.log( line(1,2,3,4) )
 
