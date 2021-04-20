@@ -1,0 +1,9 @@
+{
+  "name": "@stui/line",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@stui/core": "^1.0.0"
+  }
+}
