@@ -1,9 +1,9 @@
 {
   "name": "@stui/line",
-  "version": "1.2.0",
+  "version": "1.3.0-alpha.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@stui/core": "^1.1.0"
+    "@stui/core": "^1.3.0-alpha.0"
   }
 }
